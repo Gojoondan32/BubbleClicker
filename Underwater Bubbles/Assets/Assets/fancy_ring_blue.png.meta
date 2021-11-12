@@ -1,0 +1,2492 @@
+fileFormatVersion: 2
+guid: ddf033ebcca2e5b4da40c06159056066
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3560986322022957551
+    second: fancy_ring_blue_0
+  - first:
+      213: 2106447911295048810
+    second: fancy_ring_blue_1
+  - first:
+      213: 6001652189425317598
+    second: fancy_ring_blue_2
+  - first:
+      213: -145438307541070494
+    second: fancy_ring_blue_3
+  - first:
+      213: -8153073449455970954
+    second: fancy_ring_blue_4
+  - first:
+      213: -7874743164298499515
+    second: fancy_ring_blue_5
+  - first:
+      213: 6958361195759670568
+    second: fancy_ring_blue_6
+  - first:
+      213: 203231980475596355
+    second: fancy_ring_blue_7
+  - first:
+      213: 4885171813508818623
+    second: fancy_ring_blue_8
+  - first:
+      213: 8248996384143347996
+    second: fancy_ring_blue_9
+  - first:
+      213: 5746003993205864139
+    second: fancy_ring_blue_10
+  - first:
+      213: -5509734406815471218
+    second: fancy_ring_blue_11
+  - first:
+      213: 3970338892296275320
+    second: fancy_ring_blue_12
+  - first:
+      213: 967233856923742064
+    second: fancy_ring_blue_13
+  - first:
+      213: 6099528347681020428
+    second: fancy_ring_blue_14
+  - first:
+      213: 688105032770804087
+    second: fancy_ring_blue_15
+  - first:
+      213: 2330929883377274502
+    second: fancy_ring_blue_16
+  - first:
+      213: 3812254723305160777
+    second: fancy_ring_blue_17
+  - first:
+      213: -8294306056252193378
+    second: fancy_ring_blue_18
+  - first:
+      213: 6371394682263972110
+    second: fancy_ring_blue_19
+  - first:
+      213: -1657981201868001758
+    second: fancy_ring_blue_20
+  - first:
+      213: 5490202683411021481
+    second: fancy_ring_blue_21
+  - first:
+      213: -307117130269586384
+    second: fancy_ring_blue_22
+  - first:
+      213: 8493947032729148533
+    second: fancy_ring_blue_23
+  - first:
+      213: -6774706985154846608
+    second: fancy_ring_blue_24
+  - first:
+      213: 1727761206055008371
+    second: fancy_ring_blue_25
+  - first:
+      213: -7745293248785167870
+    second: fancy_ring_blue_26
+  - first:
+      213: -4174313657407739073
+    second: fancy_ring_blue_27
+  - first:
+      213: 1008424730917075684
+    second: fancy_ring_blue_28
+  - first:
+      213: -2690382766197955542
+    second: fancy_ring_blue_29
+  - first:
+      213: 184778814446477278
+    second: fancy_ring_blue_30
+  - first:
+      213: -6711046427090356770
+    second: fancy_ring_blue_31
+  - first:
+      213: -3297413286082000462
+    second: fancy_ring_blue_32
+  - first:
+      213: -5661617266867257568
+    second: fancy_ring_blue_33
+  - first:
+      213: -126551110691305212
+    second: fancy_ring_blue_34
+  - first:
+      213: -2512515127153170833
+    second: fancy_ring_blue_35
+  - first:
+      213: -2092128217230216087
+    second: fancy_ring_blue_36
+  - first:
+      213: -4464040787398680424
+    second: fancy_ring_blue_37
+  - first:
+      213: 4681661542006214825
+    second: fancy_ring_blue_38
+  - first:
+      213: -3949144366467159864
+    second: fancy_ring_blue_39
+  - first:
+      213: 7456741572004497120
+    second: fancy_ring_blue_40
+  - first:
+      213: -1277080321040803326
+    second: fancy_ring_blue_41
+  - first:
+      213: 1519917428487285703
+    second: fancy_ring_blue_42
+  - first:
+      213: -400692591138985307
+    second: fancy_ring_blue_43
+  - first:
+      213: -4932157558268917036
+    second: fancy_ring_blue_44
+  - first:
+      213: -3587269153901229330
+    second: fancy_ring_blue_45
+  - first:
+      213: 6880290271434275156
+    second: fancy_ring_blue_46
+  - first:
+      213: -4061598945979207925
+    second: fancy_ring_blue_47
+  - first:
+      213: -6436964773990804494
+    second: fancy_ring_blue_48
+  - first:
+      213: -4766925372135304664
+    second: fancy_ring_blue_49
+  - first:
+      213: -6400123053192344789
+    second: fancy_ring_blue_50
+  - first:
+      213: -2623269502242424021
+    second: fancy_ring_blue_51
+  - first:
+      213: 982506769407632587
+    second: fancy_ring_blue_52
+  - first:
+      213: -750539129041362598
+    second: fancy_ring_blue_53
+  - first:
+      213: -8786318425743894251
+    second: fancy_ring_blue_54
+  - first:
+      213: 8522206403519622451
+    second: fancy_ring_blue_55
+  - first:
+      213: 9007592615104255476
+    second: fancy_ring_blue_56
+  - first:
+      213: 2336212159484313283
+    second: fancy_ring_blue_57
+  - first:
+      213: -6406159903177342421
+    second: fancy_ring_blue_58
+  - first:
+      213: -6937316142373091345
+    second: fancy_ring_blue_59
+  - first:
+      213: 1439603532950813979
+    second: fancy_ring_blue_60
+  - first:
+      213: -1099342321906165817
+    second: fancy_ring_blue_61
+  - first:
+      213: -226822023462088318
+    second: fancy_ring_blue_62
+  - first:
+      213: 3373889014200468227
+    second: fancy_ring_blue_63
+  - first:
+      213: -721662120950999353
+    second: fancy_ring_blue_64
+  - first:
+      213: -2993647578705213881
+    second: fancy_ring_blue_65
+  - first:
+      213: -8431768633077929663
+    second: fancy_ring_blue_66
+  - first:
+      213: -3633117942427038791
+    second: fancy_ring_blue_67
+  - first:
+      213: 5689135541772257927
+    second: fancy_ring_blue_68
+  - first:
+      213: 5825256128040006398
+    second: fancy_ring_blue_69
+  - first:
+      213: -5398599865279859368
+    second: fancy_ring_blue_70
+  - first:
+      213: 7764229441204600781
+    second: fancy_ring_blue_71
+  - first:
+      213: -2419581754061246888
+    second: fancy_ring_blue_72
+  - first:
+      213: -2247986803347768199
+    second: fancy_ring_blue_73
+  - first:
+      213: -8900519694241044248
+    second: fancy_ring_blue_74
+  - first:
+      213: 7333492070759112303
+    second: fancy_ring_blue_75
+  - first:
+      213: -5399512359116418565
+    second: fancy_ring_blue_76
+  - first:
+      213: 3486363787139046711
+    second: fancy_ring_blue_77
+  - first:
+      213: -2370619068012437333
+    second: fancy_ring_blue_78
+  - first:
+      213: 7510823405951373366
+    second: fancy_ring_blue_79
+  - first:
+      213: -3546800204520864698
+    second: fancy_ring_blue_80
+  - first:
+      213: -7078525939519078751
+    second: fancy_ring_blue_81
+  - first:
+      213: 2455174028250505727
+    second: fancy_ring_blue_82
+  - first:
+      213: 6366625760362674987
+    second: fancy_ring_blue_83
+  - first:
+      213: 4846674547229554636
+    second: fancy_ring_blue_84
+  - first:
+      213: 7733303735078543695
+    second: fancy_ring_blue_85
+  - first:
+      213: -4767991676179750093
+    second: fancy_ring_blue_86
+  - first:
+      213: -6818911204340305806
+    second: fancy_ring_blue_87
+  - first:
+      213: -1909129817127129192
+    second: fancy_ring_blue_88
+  - first:
+      213: -7955467255358611951
+    second: fancy_ring_blue_89
+  - first:
+      213: -1892622439732996365
+    second: fancy_ring_blue_90
+  - first:
+      213: -2196157691223894416
+    second: fancy_ring_blue_91
+  - first:
+      213: 4981500154515446941
+    second: fancy_ring_blue_92
+  - first:
+      213: 6221513130036864004
+    second: fancy_ring_blue_93
+  - first:
+      213: 3214686494292802951
+    second: fancy_ring_blue_94
+  - first:
+      213: -4292688774087556858
+    second: fancy_ring_blue_95
+  - first:
+      213: -8960223779780059145
+    second: fancy_ring_blue_96
+  - first:
+      213: -2208931117222392011
+    second: fancy_ring_blue_97
+  - first:
+      213: 4193635070073063911
+    second: fancy_ring_blue_98
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fancy_ring_blue_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 761
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe10436613a2b6130800000000000000
+      internalID: 3560986322022957551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 755
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6cda92073b9b3d10800000000000000
+      internalID: 2106447911295048810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_2
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 707
+        width: 11
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed634204ed62a4350800000000000000
+      internalID: 6001652189425317598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_3
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 708
+        width: 13
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26dc74e31ac4bfdf0800000000000000
+      internalID: -145438307541070494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_4
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 708
+        width: 15
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675128105e67ade80800000000000000
+      internalID: -8153073449455970954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_5
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 705
+        width: 17
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a6d8270da47b290800000000000000
+      internalID: -7874743164298499515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_6
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 704
+        width: 17
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8251e1cf3a0119060800000000000000
+      internalID: 6958361195759670568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_7
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 701
+        width: 18
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e3f33d86602d200800000000000000
+      internalID: 203231980475596355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_8
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 754
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6a1f2b1ed9bc340800000000000000
+      internalID: 4885171813508818623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_9
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 747
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11985e91825a7270800000000000000
+      internalID: 8248996384143347996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_10
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 724
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6f20d2038edbf40800000000000000
+      internalID: 5746003993205864139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_11
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 706
+        width: 10
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e892403bfbd7983b0800000000000000
+      internalID: -5509734406815471218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_12
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 711
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875cc31df2a791730800000000000000
+      internalID: 3970338892296275320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_13
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 705
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07faba8711e4c6d00800000000000000
+      internalID: 967233856923742064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_14
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 674
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ad3fc27b0e5a450800000000000000
+      internalID: 6099528347681020428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_15
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 676
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779567ea1e3ac8900800000000000000
+      internalID: 688105032770804087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_16
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 677
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e8b0f0160295020800000000000000
+      internalID: 2330929883377274502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_17
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 581
+        width: 19
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940c8eff879d7e430800000000000000
+      internalID: 3812254723305160777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_18
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 679
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9587b24694b4ec80800000000000000
+      internalID: -8294306056252193378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_19
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 667
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e092828d4bdbb6850800000000000000
+      internalID: 6371394682263972110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_20
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 601
+        width: 18
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ee16a91eaadf8e0800000000000000
+      internalID: -1657981201868001758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_21
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 601
+        width: 18
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae3c91904e113c40800000000000000
+      internalID: 5490202683411021481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_22
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 600
+        width: 18
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c08d1e896ecbbf0800000000000000
+      internalID: -307117130269586384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_23
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 600
+        width: 19
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57cddcac2df80e570800000000000000
+      internalID: 8493947032729148533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_24
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 590
+        width: 19
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070ec7414e76bf1a0800000000000000
+      internalID: -6774706985154846608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_25
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 592
+        width: 19
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378fb9fa9ad3af710800000000000000
+      internalID: 1727761206055008371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_26
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 592
+        width: 19
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20acde893d0338490800000000000000
+      internalID: -7745293248785167870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_27
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 569
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b662558dbd116c0800000000000000
+      internalID: -4174313657407739073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_28
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 570
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eaf70d23f4aefd00800000000000000
+      internalID: 1008424730917075684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_29
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 579
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2420fed027d9aad0800000000000000
+      internalID: -2690382766197955542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_30
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 575
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf991d4a57709200800000000000000
+      internalID: 184778814446477278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_31
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 486
+        width: 19
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5ff1ac4d29dd2a0800000000000000
+      internalID: -6711046427090356770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_32
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 574
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9cd65361c3d32d0800000000000000
+      internalID: -3297413286082000462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_33
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 581
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02fb822a715ed61b0800000000000000
+      internalID: -5661617266867257568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_34
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 497
+        width: 19
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40940517f666e3ef0800000000000000
+      internalID: -126551110691305212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_35
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 575
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f666d31cdc0c12dd0800000000000000
+      internalID: -2512515127153170833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_36
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 583
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964fb63987447f2e0800000000000000
+      internalID: -2092128217230216087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_37
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 578
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8902f3c2e8a8c02c0800000000000000
+      internalID: -4464040787398680424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_38
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 489
+        width: 18
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a053e13e5a98f040800000000000000
+      internalID: 4681661542006214825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_39
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 493
+        width: 19
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c86df54f12d139c0800000000000000
+      internalID: -3949144366467159864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_40
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 394
+        width: 19
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e64735c3faab7760800000000000000
+      internalID: 7456741572004497120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_41
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 495
+        width: 19
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a98bad636e64ee0800000000000000
+      internalID: -1277080321040803326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_42
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 402
+        width: 19
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cbe8ec29d4d71510800000000000000
+      internalID: 1519917428487285703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_43
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 498
+        width: 19
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aaa7091634707af0800000000000000
+      internalID: -400692591138985307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_44
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 402
+        width: 19
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da8f1b15d47d8bb0800000000000000
+      internalID: -4932157558268917036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_45
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 500
+        width: 19
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea4000f5b5773ec0800000000000000
+      internalID: -3587269153901229330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_46
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 396
+        width: 20
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4597a6c6c83bb7f50800000000000000
+      internalID: 6880290271434275156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_47
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 487
+        width: 19
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0feec4274d42a7c0800000000000000
+      internalID: -4061598945979207925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_48
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 403
+        width: 19
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3539e74ae4ba6a0800000000000000
+      internalID: -6436964773990804494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_49
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 405
+        width: 19
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822141b51aa78ddb0800000000000000
+      internalID: -4766925372135304664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_50
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 406
+        width: 19
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b8eaf0ef13e27a0800000000000000
+      internalID: -6400123053192344789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_51
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 393
+        width: 19
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b79b05946489bd0800000000000000
+      internalID: -2623269502242424021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_52
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 480
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc465f383b092ad00800000000000000
+      internalID: 982506769407632587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_53
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 382
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51657f73ac8595f0800000000000000
+      internalID: -750539129041362598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_54
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 376
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519d01691f9b01680800000000000000
+      internalID: -8786318425743894251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_55
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 377
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33da8584295f44670800000000000000
+      internalID: 8522206403519622451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_56
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 383
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f598b852c5610d70800000000000000
+      internalID: 9007592615104255476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_57
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 385
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ceb20ec494eb6020800000000000000
+      internalID: 2336212159484313283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_58
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 349
+        width: 16
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2283c4628fb817a0800000000000000
+      internalID: -6406159903177342421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_59
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 369
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7c44759b3b9bf90800000000000000
+      internalID: -6937316142373091345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_60
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 358
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d3eee29cf7af310800000000000000
+      internalID: 1439603532950813979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_61
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 260
+        width: 20
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7da389bf95eb0f0800000000000000
+      internalID: -1099342321906165817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_62
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 374
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2819e48429a2adcf0800000000000000
+      internalID: -226822023462088318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_63
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 319
+        width: 20
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303030bce2672de20800000000000000
+      internalID: 3373889014200468227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_64
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 365
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c65cd0ef142cf5f0800000000000000
+      internalID: -721662120950999353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_65
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 367
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7464190636d6476d0800000000000000
+      internalID: -2993647578705213881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_66
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 365
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149eb150a175cfa80800000000000000
+      internalID: -8431768633077929663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_67
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 370
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bbc98efa72949dc0800000000000000
+      internalID: -3633117942427038791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_68
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 367
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a826602aed3fe40800000000000000
+      internalID: 5689135541772257927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_69
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 356
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2fd7db59777d050800000000000000
+      internalID: 5825256128040006398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_70
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 313
+        width: 20
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855b58986025415b0800000000000000
+      internalID: -5398599865279859368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_71
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 361
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf31a54a8510cb60800000000000000
+      internalID: 7764229441204600781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_72
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 363
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ea924d63beb6ed0800000000000000
+      internalID: -2419581754061246888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_73
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 345
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97cb0b6a9eb8dc0e0800000000000000
+      internalID: -2247986803347768199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_74
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 360
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8e46cbe700b7480800000000000000
+      internalID: -8900519694241044248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_75
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 323
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e9db01f2cc5c560800000000000000
+      internalID: 7333492070759112303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_76
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 324
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1d8820e141115b0800000000000000
+      internalID: -5399512359116418565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_77
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 347
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d5532946d026030800000000000000
+      internalID: 3486363787139046711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_78
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 321
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0e959848ed91fd0800000000000000
+      internalID: -2370619068012437333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_79
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 343
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630db6af71ecb3860800000000000000
+      internalID: 7510823405951373366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_80
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 345
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6444048710c37cec0800000000000000
+      internalID: -3546800204520864698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_81
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 338
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aeb391692604cd90800000000000000
+      internalID: -7078525939519078751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_82
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 333
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1e2a745c7821220800000000000000
+      internalID: 2455174028250505727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_83
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 340
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2bb440b56cca5850800000000000000
+      internalID: 6366625760362674987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_84
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 233
+        width: 13
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc77b8962d8d24340800000000000000
+      internalID: 4846674547229554636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_85
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 236
+        width: 12
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41ee8536c6325b60800000000000000
+      internalID: 7733303735078543695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_86
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 323
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333694915d0b4ddb0800000000000000
+      internalID: -4767991676179750093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_87
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 239
+        width: 11
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2707d56436c5e51a0800000000000000
+      internalID: -6818911204340305806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_88
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 242
+        width: 13
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89fe70cdb886185e0800000000000000
+      internalID: -1909129817127129192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_89
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 245
+        width: 20
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e191e5ea0889190800000000000000
+      internalID: -7955467255358611951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_90
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 312
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f618c92bed0cb5e0800000000000000
+      internalID: -1892622439732996365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_91
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 231
+        width: 13
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0769bdf273ea581e0800000000000000
+      internalID: -2196157691223894416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_92
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 315
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c52765ff7d12540800000000000000
+      internalID: 4981500154515446941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_93
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 243
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404a6419a31475650800000000000000
+      internalID: 6221513130036864004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_94
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 250
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d719c955cdc9c20800000000000000
+      internalID: 3214686494292802951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_95
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 246
+        width: 11
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6014439bd4e4d64c0800000000000000
+      internalID: -4292688774087556858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_96
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 144
+        width: 13
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff933212f3e6a380800000000000000
+      internalID: -8960223779780059145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_97
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 147
+        width: 13
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f07a03adc4851e0800000000000000
+      internalID: -2208931117222392011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fancy_ring_blue_98
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 150
+        width: 13
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9435d90e8c23a30800000000000000
+      internalID: 4193635070073063911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
